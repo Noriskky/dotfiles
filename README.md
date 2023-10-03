@@ -1,4 +1,4 @@
-# Noriskky's Dotfiles 
+# Noriskky's Dotfiles [OUTDATED]
 #### 28.5.2023
 ## What I'm using
 ### Technik
